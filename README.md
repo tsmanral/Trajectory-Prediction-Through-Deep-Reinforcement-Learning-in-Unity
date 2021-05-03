@@ -11,11 +11,9 @@
 
 The goal is to train an agent that can detect and avoid obstacles inside a polytope. The agent will learn the line of the shot of the ball to reach the goal in optimal steps. Utilizing Tensorflow with Reinforcement learning in Unity along with mlagents package to train the game.
 
-#### 1:
-Trained an agent to learn a conditioned trajectory inside a polytope to reach the goal using nature_cnn visual encoder
+#### 1: Trained an agent to learn a conditioned trajectory inside a polytope to reach the goal using nature_cnn visual encoder
 
-#### 2:
-Developed GUI of the game playable by human and the AI using Generative Adversarial Imitation Learning
+#### 2: Developed GUI of the game playable by human and the AI using Generative Adversarial Imitation Learning
 
 
 
